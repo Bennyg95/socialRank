@@ -1,1 +1,3 @@
 # socialRank
+
+A mobile application will be created that will allow the user to input up to five words and visualize the word frequency among major social web pages such as twitter, facebook, and instagram in comparison to each other. The user will also be able to insert a time frame in which they would like to visualize. The data collected from these website will be extracted using the social web page’s APIs. An algorithm will be designed to parse through the raw data extracted from these various social sites. The mobile application will be made using android, python, and bokeh. Agile development methodologies will be used in production.
